@@ -1,5 +1,5 @@
 # NoSuchThing
 
-Rexexpr ^Starting(.\*)$
+Reg ^Starting(.\*)$
 Podcasts transcripts, txt.
 podscripts.co
